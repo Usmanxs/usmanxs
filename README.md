@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman </h1>
 <h3 align="center">I'm a Computer Science Grad and a Passionate Full Stack Developer</h3>
 
-- 👯 I’m looking to collaborate on **React.js/Next.JS Projects**
+- 👯 I’m looking to collaborate on **React.js/Next.JS and aws Projects **
 
 - 💬 Ask me about **React, Tailwindcss, NextJS, NodeJS, MySQL, Database Managment, Backend and Frontend Development**
 
